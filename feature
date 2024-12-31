@@ -1,1 +1,1 @@
-conflict in merging
+conflict1
